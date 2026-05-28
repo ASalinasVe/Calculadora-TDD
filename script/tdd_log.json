@@ -106,9 +106,31 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6551e0bb1a84ee56adcf016be298ad5857688468",
     "commitName": "feat: tdd-2 funcion para suma de 2 numeros separados por coma",
     "commitTimestamp": 1779948713413,
     "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1779948748484,
+    "success": false,
+    "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779948760029,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: tdd-3 funcion suma para dos numeros separados por coma",
+    "commitTimestamp": 1779948848416,
+    "testId": 4
   }
 ]
