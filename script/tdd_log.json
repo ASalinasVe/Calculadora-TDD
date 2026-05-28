@@ -142,9 +142,31 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "2e2925d7debd6a1fe8e7028f414d640cc6293522",
     "commitName": "refactor: tdd-3 funcion para la suma de dos numeros separados por coma y refactorizacion con reduce",
     "commitTimestamp": 1779948912423,
     "testId": 5
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 1,
+    "numTotalTests": 5,
+    "timestamp": 1779948935104,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1779948945644,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: tdd-4 funcion para multiples numeros y separador por guion",
+    "commitTimestamp": 1779948967526,
+    "testId": 6
   }
 ]

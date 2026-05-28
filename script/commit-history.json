@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "2e2925d7debd6a1fe8e7028f414d640cc6293522",
     "author": "ASalinasVe",
     "commit": {
       "date": "2026-05-28T06:15:11.000Z",
       "message": "refactor: tdd-3 funcion para la suma de dos numeros separados por coma y refactorizacion con reduce",
-      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/2e2925d7debd6a1fe8e7028f414d640cc6293522"
     },
     "stats": {
       "total": 7,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ASalinasVe",
+    "commit": {
+      "date": "2026-05-28T06:16:06.000Z",
+      "message": "feat: tdd-4 funcion para multiples numeros y separador por guion",
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 7,
+      "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
