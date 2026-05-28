@@ -16,3 +16,7 @@ test('debería sumar múltiples números separados por comas o guiones', () => {
     expect(sumar("1-2,3")).toBe(6);
     expect(sumar("1,2,4,8")).toBe(15);
 });
+
+test('debería ignorar los números mayores a 1000', () => {
+    expect(sumar("2,1001")).toBe(2);
+});

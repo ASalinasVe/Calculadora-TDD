@@ -164,9 +164,31 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "6348d9f6c47e30d86efb1b08902db2c36779f261",
     "commitName": "feat: tdd-4 funcion para multiples numeros y separador por guion",
     "commitTimestamp": 1779948967526,
     "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1779948991350,
+    "success": false,
+    "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1779949001216,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: tdd-5 funcion para ignorar numeros mayores a 1000",
+    "commitTimestamp": 1779949019458,
+    "testId": 7
   }
 ]

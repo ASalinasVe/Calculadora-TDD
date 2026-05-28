@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6348d9f6c47e30d86efb1b08902db2c36779f261",
     "author": "ASalinasVe",
     "commit": {
       "date": "2026-05-28T06:16:06.000Z",
       "message": "feat: tdd-4 funcion para multiples numeros y separador por guion",
-      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/6348d9f6c47e30d86efb1b08902db2c36779f261"
     },
     "stats": {
       "total": 9,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 5,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ASalinasVe",
+    "commit": {
+      "date": "2026-05-28T06:16:58.000Z",
+      "message": "feat: tdd-5 funcion para ignorar numeros mayores a 1000",
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 8,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 6,
     "failed_tests": 0,
     "conclusion": "success"
   }
