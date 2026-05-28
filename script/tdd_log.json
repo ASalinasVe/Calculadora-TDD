@@ -128,9 +128,23 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c3c618580485ce88005eea90e143ffc83994c6c1",
     "commitName": "feat: tdd-3 funcion suma para dos numeros separados por coma",
     "commitTimestamp": 1779948848416,
     "testId": 4
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1779948896973,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: tdd-3 funcion para la suma de dos numeros separados por coma y refactorizacion con reduce",
+    "commitTimestamp": 1779948912423,
+    "testId": 5
   }
 ]

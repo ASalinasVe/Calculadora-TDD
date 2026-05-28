@@ -1,10 +1,7 @@
 function sumar(cadena) {
     if (cadena === "") return 0;
-    if (cadena.includes(",")) {
-        const numeros = cadena.split(",");
-        return parseInt(numeros[0]) + parseInt(numeros[1]);
-    }
-    return parseInt(cadena);
+    const numeros = cadena.split(",");
+    return numeros.reduce((acc, curr) => acc + parseInt(curr), 0);
 }
 
 module.exports = { sumar };
