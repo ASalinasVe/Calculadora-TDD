@@ -84,9 +84,31 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "1048e7e05ec1cd35937381db3a1d6f4948f008fe",
     "commitName": "fix: tdd-1 funcion sumar cadena vacia",
     "commitTimestamp": 1779948652726,
     "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1779948678241,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1779948692366,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: tdd-2 funcion para suma de 2 numeros separados por coma",
+    "commitTimestamp": 1779948713413,
+    "testId": 3
   }
 ]

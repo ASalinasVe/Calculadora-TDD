@@ -1,4 +1,6 @@
 function sumar(cadena) {
-    return 0; 
+    if (cadena === "") return 0;
+    return parseInt(cadena);
 }
+
 module.exports = { sumar };

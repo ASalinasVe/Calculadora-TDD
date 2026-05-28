@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "1048e7e05ec1cd35937381db3a1d6f4948f008fe",
     "author": "ASalinasVe",
     "commit": {
       "date": "2026-05-28T06:10:51.000Z",
       "message": "fix: tdd-1 funcion sumar cadena vacia",
-      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/1048e7e05ec1cd35937381db3a1d6f4948f008fe"
     },
     "stats": {
       "total": 4,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ASalinasVe",
+    "commit": {
+      "date": "2026-05-28T06:11:52.000Z",
+      "message": "feat: tdd-2 funcion para suma de 2 numeros separados por coma",
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 8,
+      "additions": 7,
+      "deletions": 1,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
