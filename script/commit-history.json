@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "baf3442d31c7a9e36234abe9ecfdb7b6a2c8e860",
     "author": "ASalinasVe",
     "commit": {
       "date": "2026-05-28T06:18:23.000Z",
       "message": "feat: tdd-6 funcion para delimitador personalizado",
-      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/baf3442d31c7a9e36234abe9ecfdb7b6a2c8e860"
     },
     "stats": {
       "total": 23,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ASalinasVe",
+    "commit": {
+      "date": "2026-05-28T06:19:29.000Z",
+      "message": "feat: tdd-7 funcion para multiples delimitadores y longitudes variables",
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 14,
+      "additions": 12,
+      "deletions": 2,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

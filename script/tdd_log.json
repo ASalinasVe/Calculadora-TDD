@@ -208,9 +208,31 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "baf3442d31c7a9e36234abe9ecfdb7b6a2c8e860",
     "commitName": "feat: tdd-6 funcion para delimitador personalizado",
     "commitTimestamp": 1779949104433,
     "testId": 8
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1779949131226,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1779949146589,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: tdd-7 funcion para multiples delimitadores y longitudes variables",
+    "commitTimestamp": 1779949171230,
+    "testId": 9
   }
 ]

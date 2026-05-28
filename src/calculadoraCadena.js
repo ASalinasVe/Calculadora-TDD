@@ -9,8 +9,12 @@ function sumar(cadena) {
         const encabezado = cadena.substring(0, espacioIndex);
         secuencia = cadena.substring(espacioIndex + 1);
 
-        const personalizado = encabezado.match(/\[(.*?)\]/)[1];
-        delims.push(personalizado);
+        const encontrados = encabezado.match(/\[(.*?)\]/g);
+        if (encontrados) {
+            encontrados.forEach(d => {
+                delims.push(d.slice(1, -1));
+            });
+        }
     }
 
     const regexPattern = delims.map(d => d.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&')).join('|');
@@ -21,4 +25,5 @@ function sumar(cadena) {
         return num > 1000 ? acc : acc + num;
     }, 0);
 }
+
 module.exports = { sumar };

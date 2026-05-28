@@ -25,3 +25,8 @@ test('debería permitir un delimitador personalizado simple', () => {
     expect(sumar("//[;] 6;7;4")).toBe(17);
     expect(sumar("//[;] 6,3-2;1")).toBe(12);
 });
+
+test('debería soportar delimitadores de cualquier longitud y múltiples delimitadores', () => {
+    expect(sumar("//[***] 1***2***3")).toBe(6);
+    expect(sumar("//[*][%] 1*2%3,7-9")).toBe(22);
+});
