@@ -1,15 +1,34 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "6bb10727c308826206a20bc25032b72772195a4a",
     "author": "ASalinasVe",
     "commit": {
       "date": "2026-05-28T06:04:52.000Z",
       "message": "primer commit tddcalculadora",
-      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/6bb10727c308826206a20bc25032b72772195a4a"
     },
     "stats": {
       "total": 0,
       "additions": 0,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ASalinasVe",
+    "commit": {
+      "date": "2026-05-28T06:08:14.000Z",
+      "message": "feat: tdd-1 funcion sumar cadena vacia",
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
       "deletions": 0,
       "date": "2026-05-28"
     },
