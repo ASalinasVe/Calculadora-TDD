@@ -186,9 +186,31 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "fa31d9252f98e5f81200ad3c731888e74d78c84c",
     "commitName": "feat: tdd-5 funcion para ignorar numeros mayores a 1000",
     "commitTimestamp": 1779949019458,
     "testId": 7
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 1,
+    "numTotalTests": 7,
+    "timestamp": 1779949065492,
+    "success": false,
+    "testId": 8
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1779949085830,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: tdd-6 funcion para delimitador personalizado",
+    "commitTimestamp": 1779949104433,
+    "testId": 8
   }
 ]

@@ -20,3 +20,8 @@ test('debería sumar múltiples números separados por comas o guiones', () => {
 test('debería ignorar los números mayores a 1000', () => {
     expect(sumar("2,1001")).toBe(2);
 });
+
+test('debería permitir un delimitador personalizado simple', () => {
+    expect(sumar("//[;] 6;7;4")).toBe(17);
+    expect(sumar("//[;] 6,3-2;1")).toBe(12);
+});
