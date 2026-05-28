@@ -46,9 +46,47 @@
     "testId": 1
   },
   {
-    "commitId": "HEAD",
+    "commitId": "83537092e277ea1b97329f237a2b4895ff8c99aa",
     "commitName": "feat: tdd-1 funcion sumar cadena vacia",
     "commitTimestamp": 1779948495600,
     "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1779948523071,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1779948537626,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1779948602653,
+    "success": false,
+    "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1779948620912,
+    "success": true,
+    "testId": 2
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: tdd-1 funcion sumar cadena vacia",
+    "commitTimestamp": 1779948652726,
+    "testId": 2
   }
 ]
