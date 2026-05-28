@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "ASalinasVe",
+    "commit": {
+      "date": "2026-05-28T06:04:52.000Z",
+      "message": "primer commit tddcalculadora",
+      "url": "https://github.com/ASalinasVe/Calculadora-TDD/commit/HEAD"
+    },
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0,
+      "date": "2026-05-28"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
